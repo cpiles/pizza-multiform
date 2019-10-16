@@ -1,0 +1,13 @@
+<h1>Your order has been accepted</h1>
+
+<h4>Your ticket number is {{ number }}</h4>
+
+<hr/>
+
+{% for key,value in info %}
+  {% if value %}
+    <p>{{ key }}: <strong>{{ value }}</strong></p>
+  {% endif %}
+{% endfor %}
+
+

@@ -1,0 +1,7 @@
+app_pizza_order:
+  path: /pizza/order
+  controller: App\Controller\PizzaController::order
+
+app_pizza_number:
+  path: /pizza/number
+  controller: App\Controller\PizzaController::number
