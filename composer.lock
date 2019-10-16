@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "60a2d06fea5082a09e6ca32c5604bf3c",
+    "content-hash": "3d5c09c676c222fd7f38d3e18c9d9210",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1322,16 +1322,16 @@
         },
         {
             "name": "habitissimo/multiforms",
-            "version": "0.3.3",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cpiles/multiforms.git",
-                "reference": "05ab6eff8378d20123c052eddd98ef7dbb65cea3"
+                "reference": "e8a7f79b5659721af263f7f7edb0a4b04a8a5fb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cpiles/multiforms/zipball/05ab6eff8378d20123c052eddd98ef7dbb65cea3",
-                "reference": "05ab6eff8378d20123c052eddd98ef7dbb65cea3",
+                "url": "https://api.github.com/repos/cpiles/multiforms/zipball/e8a7f79b5659721af263f7f7edb0a4b04a8a5fb0",
+                "reference": "e8a7f79b5659721af263f7f7edb0a4b04a8a5fb0",
                 "shasum": ""
             },
             "require": {
